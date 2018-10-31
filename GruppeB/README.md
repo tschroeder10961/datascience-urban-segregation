@@ -1,0 +1,1 @@
+Workspace für Gruppe B
