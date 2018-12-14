@@ -1,0 +1,144 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Einführung\n",
+    "Dies ist das erste Jupyter Notebook für den Data-Science-Kurs. Das schöne daran ist, dass man Text schreiben kann wie in einem wissenschaftlichen Bericht, aber auch gleich den Python-Code direkt einbetten.\n",
+    "# Code\n",
+    "Das folgende ist ein einfaches Beispiel für den Python code:"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 11,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "5.5\n"
+     ]
+    }
+   ],
+   "source": [
+    "a = 3.4\n",
+    "b = 2.1\n",
+    "\n",
+    "print(a+b)\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 9,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "      EWgesamt  EWunter30  EW30bis60  EWueber60  HHgesamt  1PHHgesamt  \\\n",
+      "2007    192121      49052      45602      42072    102003       49692   \n",
+      "2008    191959      49004      45549      42397    102384       50656   \n",
+      "2009    192241      49177      45515      42510    102867       50467   \n",
+      "2010    193112      49393      45524      42466    103884       51726   \n",
+      "2011    194109      49623      45862      42588    102343       50814   \n",
+      "2012    195422      49521      46600      42695    103825       52210   \n",
+      "2013    196758      66270      51125      49662    105889       54076   \n",
+      "2014    197092      66596      80572      49924    106459       54653   \n",
+      "2015    200507      68790      81453      50264    108082       56145   \n",
+      "2016    201907      69862      81458      50587    108913       56541   \n",
+      "2017    204021      70873      82160      50988    109533       56669   \n",
+      "\n",
+      "      1PHHunter30  1PHH30bis60  1PHHueber60  \n",
+      "2007        11660        21157        16875  \n",
+      "2008        12451        22425        15780  \n",
+      "2009        12355        21226        16886  \n",
+      "2010        12782        21735        17209  \n",
+      "2011        12782        22026        16006  \n",
+      "2012        13238        22628        16344  \n",
+      "2013        14165        23223        16688  \n",
+      "2014        14341        23392        16920  \n",
+      "2015        14918        24173        17054  \n",
+      "2016        15110        23939        17492  \n",
+      "2017        14920        23991        17758  \n"
+     ]
+    }
+   ],
+   "source": [
+    "import pandas as pd\n",
+    "kassel = pd.read_csv('Forschungsdaten03_csv.csv', sep=\";\", index_col=0)\n",
+    "print(kassel)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Wenn man Shift+Enter drückt, wird der Code ausgeführt und man erhät das Ergebnis."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Diskussion\n",
+    "Sind 2 und 2 wirklich immer 4? Diese spannende Frage ist nicht so trivial, wie sie scheint, und wird von Muller et al. (2010) ausführlich erörtert.\n",
+    "\n",
+    "# Literaturangaben\n",
+    "Muller, J.-M., Brisebarre, N., de Dinechin, F., Jeannerod, C.-P., Lefèvre, V., Melquiond, G., Revol, N., Stehlé, D., Torres, S. (2010). Handbook of floating-point arithmetic. Heidelberg: Springer Nature."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.0"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
