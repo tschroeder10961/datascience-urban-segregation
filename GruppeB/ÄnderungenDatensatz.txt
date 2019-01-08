@@ -1,0 +1,3 @@
+Zu Forschungsdatensatz_v3.csv:
+-ausgehend von Forschungsdatensatz_v2.csv wurden die Jahreszaheln der Spalten Alter der Bevölkerung der Jahre 2013 und 2017 umbenannt, um Sonderzeichen (Unterstrich) zu entfernen
+-die Jahreszahlen wurden an den Anfang der Spaltenbezeichnung gesetzt und dafür am Ende allsamt des Unterstriches entfernt
