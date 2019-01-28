@@ -1,0 +1,173 @@
+Var_name,Var_label,Metrik,Skalenniveau
+STD_NR,Stadtteilnummer,integer,Nominal
+STD_name,Stadtteilname,string,Nominal
+EW_2004,Einwohner 2004,Absolute Werte,Metrisch
+EW_2005,Einwohner 2005,Absolute Werte,Metrisch
+EW_2006,Einwohner 2006,Absolute Werte,Metrisch
+EW_2007,Einwohner 2007,Absolute Werte,Metrisch
+EW_2008,Einwohner 2008,Absolute Werte,Metrisch
+EW_2009,Einwohner 2009,Absolute Werte,Metrisch
+EW_2010,Einwohner 2010,Absolute Werte,Metrisch
+EW_2011,Einwohner 2011,Absolute Werte,Metrisch
+EW_2012,Einwohner 2012,Absolute Werte,Metrisch
+EW_2013,Einwohner 2013,Absolute Werte,Metrisch
+EW_2014,Einwohner 2014,Absolute Werte,Metrisch
+EW_2015,Einwohner 2015,Absolute Werte,Metrisch
+EW_2016,Einwohner 2016,Absolute Werte,Metrisch
+EW_2017,Einwohner 2017,Absolute Werte,Metrisch
+JQ_2004,Jugendquote_2004,Prozente,Metrisch
+JQ_2005,Jugendquote 2005,Prozente,Metrisch
+JQ_2006,Jugendquote_2005,Prozente,Metrisch
+JQ_2007,Jugendquote 2006,Prozente,Metrisch
+JQ_2008,Jugendquote_2006,Prozente,Metrisch
+JQ_2009,Jugendquote 2007,Prozente,Metrisch
+JQ_2010,Jugendquote_2007,Prozente,Metrisch
+JQ_2011,Jugendquote 2008,Prozente,Metrisch
+JQ_2012,Jugendquote_2008,Prozente,Metrisch
+JQ_2013,Jugendquote 2009,Prozente,Metrisch
+JQ_2014,Jugendquote_2009,Prozente,Metrisch
+JQ_2015,Jugendquote 2010,Prozente,Metrisch
+JQ_2016,Jugendquote_2010,Prozente,Metrisch
+JQ_2017,Jugendquote 2011,Prozente,Metrisch
+ZUZ_2004,Zuzüge 2004,Absolute Werte,Metrisch
+ZUZ_2006,Zuzüge 2005,Absolute Werte,Metrisch
+ZUZ_2007,Zuzüge 2006,Absolute Werte,Metrisch
+ZUZ_2008,Zuzüge 2007,Absolute Werte,Metrisch
+ZUZ_2009,Zuzüge 2008,Absolute Werte,Metrisch
+ZUZ_2010,Zuzüge 2009,Absolute Werte,Metrisch
+ZUZ_2011,Zuzüge 2010,Absolute Werte,Metrisch
+ZUZ_2012,Zuzüge 2011,Absolute Werte,Metrisch
+ZUZ_2013,Zuzüge 2012,Absolute Werte,Metrisch
+ZUZ_2014,Zuzüge 2013,Absolute Werte,Metrisch
+ZUZ_2015,Zuzüge 2014,Absolute Werte,Metrisch
+ZUZ_2016,Zuzüge 2015,Absolute Werte,Metrisch
+ZUZ_2017,Zuzüge 2016,Absolute Werte,Metrisch
+ZUZ_2000_2017,Zuzüge 2000-2017,Absolute Werte,Metrisch
+WEG_2004,Wegzüge_2004,Absolute Werte,Metrisch
+WEG_2006,Wegzüge_2005,Absolute Werte,Metrisch
+WEG_2007,Wegzüge_2006,Absolute Werte,Metrisch
+WEG_2008,Wegzüge_2007,Absolute Werte,Metrisch
+WEG_2009,Wegzüge_2008,Absolute Werte,Metrisch
+WEG_2010,Wegzüge_2009,Absolute Werte,Metrisch
+WEG_2011,Wegzüge_2010,Absolute Werte,Metrisch
+WEG_2012,Wegzüge_2011,Absolute Werte,Metrisch
+WEG_2013,Wegzüge_2012,Absolute Werte,Metrisch
+WEG_2014,Wegzüge_2013,Absolute Werte,Metrisch
+WEG_2015,Wegzüge_2014,Absolute Werte,Metrisch
+WEG_2016,Wegzüge_2015,Absolute Werte,Metrisch
+WEG_2017,Wegzüge_2016,Absolute Werte,Metrisch
+WEG_2000-2017,Wegzüge 200-2017,Absolute Werte,Metrisch
+WEG_WS,Wegzüge Wanderungssaldo,Absolute Werte,Metrisch
+GEB_2004,Geburten 2004,Absolute Werte,Metrisch
+GEB_2006,Geburten 2005,Absolute Werte,Metrisch
+GEB_2007,Geburten 2006,Absolute Werte,Metrisch
+GEB_2008,Geburten 2007,Absolute Werte,Metrisch
+GEB_2009,Geburten 2008,Absolute Werte,Metrisch
+GEB_2010,Geburten 2009,Absolute Werte,Metrisch
+GEB_2011,Geburten 2010,Absolute Werte,Metrisch
+GEB_2012,Geburten 2011,Absolute Werte,Metrisch
+GEB_2013,Geburten 2012,Absolute Werte,Metrisch
+GEB_2014,Geburten 2013,Absolute Werte,Metrisch
+GEB_2015,Geburten 2014,Absolute Werte,Metrisch
+GEB_2016,Geburten 2015,Absolute Werte,Metrisch
+GEB_2017,Geburten 2016,Absolute Werte,Metrisch
+GEB_2000-2017,Geburten 2000-2017,Absolute Werte,Metrisch
+SF_2004,Sterbefälle 2004,Absolute Werte,Metrisch
+SF_2006,Sterbefälle 2005,Absolute Werte,Metrisch
+SF_2007,Sterbefälle 2006,Absolute Werte,Metrisch
+SF_2008,Sterbefälle 2007,Absolute Werte,Metrisch
+SF_2009,Sterbefälle 2008,Absolute Werte,Metrisch
+SF_2010,Sterbefälle 2009,Absolute Werte,Metrisch
+SF_2011,Sterbefälle 2010,Absolute Werte,Metrisch
+SF_2012,Sterbefälle 2011,Absolute Werte,Metrisch
+SF_2013,Sterbefälle 2012,Absolute Werte,Metrisch
+SF_2014,Sterbefälle 2013,Absolute Werte,Metrisch
+SF_2015,Sterbefälle 2014,Absolute Werte,Metrisch
+SF_2016,Sterbefälle 2015,Absolute Werte,Metrisch
+SF_2017,Sterbefälle 2016,Absolute Werte,Metrisch
+SF_2000_2016,Sterbefälle 2000-2017,Absolute Werte,Metrisch
+SF_NS_2000_20017,Sterbefälle natürliches Saldo 2000-2017,Absolute Werte,Metrisch
+MBEV_2004,Männlicher Teil Bevölkerung 2004,Absolute Werte,Metrisch
+MBEV_2005,Männlicher Teil Bevölkerung 2005,Absolute Werte,Metrisch
+MBEV_2006,Männlicher Teil Bevölkerung 2006,Absolute Werte,Metrisch
+MBEV_2007,Männlicher Teil Bevölkerung 2007,Absolute Werte,Metrisch
+MBEV_2008,Männlicher Teil Bevölkerung 2008,Absolute Werte,Metrisch
+MBEV_2009,Männlicher Teil Bevölkerung 2009,Absolute Werte,Metrisch
+MBEV_2010,Männlicher Teil Bevölkerung 2010,Absolute Werte,Metrisch
+MBEV_2011,Männlicher Teil Bevölkerung 2011,Absolute Werte,Metrisch
+MBEV_2012,Männlicher Teil Bevölkerung 2012,Absolute Werte,Metrisch
+MBEV_2013,Männlicher Teil Bevölkerung 2013,Absolute Werte,Metrisch
+MBEV_2014,Männlicher Teil Bevölkerung 2014,Absolute Werte,Metrisch
+MBEV_2015,Männlicher Teil Bevölkerung 2015,Absolute Werte,Metrisch
+MBEV_2016,Männlicher Teil Bevölkerung 2016,Absolute Werte,Metrisch
+MBEV_2017,Männlicher Teil Bevölkerung 2017,Absolute Werte,Metrisch
+WBEV_2004,Weiblicher Teil Bevölkerung 2004,Absolute Werte,Metrisch
+WBEV_2005,Weiblicher Teil Bevölkerung 2005,Absolute Werte,Metrisch
+WBEV_2006,Weiblicher Teil Bevölkerung 2006,Absolute Werte,Metrisch
+WBEV_2007,Weiblicher Teil Bevölkerung 2007,Absolute Werte,Metrisch
+WBEV_2008,Weiblicher Teil Bevölkerung 2008,Absolute Werte,Metrisch
+WBEV_2009,Weiblicher Teil Bevölkerung 2009,Absolute Werte,Metrisch
+WBEV_2010,Weiblicher Teil Bevölkerung 2010,Absolute Werte,Metrisch
+WBEV_2011,Weiblicher Teil Bevölkerung 2011,Absolute Werte,Metrisch
+WBEV_2012,Weiblicher Teil Bevölkerung 2012,Absolute Werte,Metrisch
+WBEV_2013,Weiblicher Teil Bevölkerung 2013,Absolute Werte,Metrisch
+WBEV_2014,Weiblicher Teil Bevölkerung 2014,Absolute Werte,Metrisch
+WBEV_2015,Weiblicher Teil Bevölkerung 2015,Absolute Werte,Metrisch
+WBEV_2016,Weiblicher Teil Bevölkerung 2016,Absolute Werte,Metrisch
+WBEV_2017,Weiblicher Teil Bevölkerung 2017,Absolute Werte,Metrisch
+ABEV_2004,Ausländische Bevölkerung 2004,Absolute Werte,Metrisch
+ABEV_2005,Ausländische Bevölkerung 2005,Absolute Werte,Metrisch
+ABEV_2006,Ausländische Bevölkerung 2006,Absolute Werte,Metrisch
+ABEV_2007,Ausländische Bevölkerung 2007,Absolute Werte,Metrisch
+ABEV_2008,Ausländische Bevölkerung 2008,Absolute Werte,Metrisch
+ABEV_2009,Ausländische Bevölkerung 2009,Absolute Werte,Metrisch
+ABEV_2010,Ausländische Bevölkerung 2010,Absolute Werte,Metrisch
+ABEV_2011,Ausländische Bevölkerung 2011,Absolute Werte,Metrisch
+ABEV_2012,Ausländische Bevölkerung 2012,Absolute Werte,Metrisch
+ABEV_2013,Ausländische Bevölkerung 2013,Absolute Werte,Metrisch
+ABEV_2014,Ausländische Bevölkerung 2014,Absolute Werte,Metrisch
+ABEV_2015,Ausländische Bevölkerung 2015,Absolute Werte,Metrisch
+ABEV_2016,Ausländische Bevölkerung 2016,Absolute Werte,Metrisch
+ABEV_2017,Ausländische Bevölkerung 2017,Absolute Werte,Metrisch
+AQ_2004,Altenquote 2004,Prozente,Metrisch
+AQ_2005,Altenquote 2005,Prozente,Metrisch
+AQ_2006,Altenquote 2006,Prozente,Metrisch
+AQ_2007,Altenquote 2007,Prozente,Metrisch
+AQ_2008,Altenquote 2008,Prozente,Metrisch
+AQ_2009,Altenquote 2009,Prozente,Metrisch
+AQ_2010,Altenquote 2010,Prozente,Metrisch
+AQ_2011,Altenquote 2011,Prozente,Metrisch
+AQ_2012,Altenquote 2012,Prozente,Metrisch
+AQ_2013,Altenquote 2013,Prozente,Metrisch
+AQ_2014,Altenquote 2014,Prozente,Metrisch
+AQ_2015,Altenquote 2015,Prozente,Metrisch
+AQ_2016,Altenquote 2016,Prozente,Metrisch
+AQ_2017,Altenquote 2017,Prozente,Metrisch
+BV_2004,Bevölkerungsdichte 2004,Absolute Werte,Metrisch
+BV_2005,Bevölkerungsdichte 2005,Absolute Werte,Metrisch
+BV_2006,Bevölkerungsdichte 2006,Absolute Werte,Metrisch
+BV_2007,Bevölkerungsdichte 2007,Absolute Werte,Metrisch
+BV_2008,Bevölkerungsdichte 2008,Absolute Werte,Metrisch
+BV_2009,Bevölkerungsdichte 2009,Absolute Werte,Metrisch
+BV_2010,Bevölkerungsdichte 2010,Absolute Werte,Metrisch
+BV_2011,Bevölkerungsdichte 2011,Absolute Werte,Metrisch
+BV_2012,Bevölkerungsdichte 2012,Absolute Werte,Metrisch
+BV_2013,Bevölkerungsdichte 2013,Absolute Werte,Metrisch
+BV_2014,Bevölkerungsdichte 2014,Absolute Werte,Metrisch
+BV_2015,Bevölkerungsdichte 2015,Absolute Werte,Metrisch
+BV_2016,Bevölkerungsdichte 2016,Absolute Werte,Metrisch
+BV_2017,Bevölkerungsdichte 2017,Absolute Werte,Metrisch
+DA_2004,Durchschnittsalter 2004,Absolute Werte,Metrisch
+DA_2005,Durchschnittsalter 2005,Absolute Werte,Metrisch
+DA_2006,Durchschnittsalter 2006,Absolute Werte,Metrisch
+DA_2007,Durchschnittsalter 2007,Absolute Werte,Metrisch
+DA_2008,Durchschnittsalter 2008,Absolute Werte,Metrisch
+DA_2009,Durchschnittsalter 2009,Absolute Werte,Metrisch
+DA_2010,Durchschnittsalter 2010,Absolute Werte,Metrisch
+DA_2011,Durchschnittsalter 2011,Absolute Werte,Metrisch
+DA_2012,Durchschnittsalter 2012,Absolute Werte,Metrisch
+DA_2013,Durchschnittsalter 2013,Absolute Werte,Metrisch
+DA_2014,Durchschnittsalter 2014,Absolute Werte,Metrisch
+DA_2015,Durchschnittsalter 2015,Absolute Werte,Metrisch
+DA_2016,Durchschnittsalter 2016,Absolute Werte,Metrisch
+DA_2017,Durchschnittsalter 2017,Absolute Werte,Metrisch
